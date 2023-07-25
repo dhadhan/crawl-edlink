@@ -26,7 +26,9 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 export const Crawl = async (url, email, pass, reUrl) => {
   const browser = await puppeteerExtra.use(StealthPlugin()).launch({ 
     headless: false,
-    executablePath: await chromium.executablePath,
+    // executablePath: await chromium.executablePath,
+    executablePath: await chromium.executablePath(
+      "https://github.com/Sparticuz/chromium/releases/download/v110.0.1/chromium-v111.0.0-pack.tar"),
     // for dev
     // executablePath: "C:/Program Files/Google/Chrome/Application/chrome.exe", /* chrome://version/ */
     args: [...chromium.args, "--disable-notifications"],
