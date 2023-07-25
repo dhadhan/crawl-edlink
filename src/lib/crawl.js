@@ -25,7 +25,7 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 
 export const Crawl = async (url, email, pass, reUrl) => {
   const browser = await puppeteerExtra.use(StealthPlugin()).launch({ 
-    headless: chromium.headless,
+    headless: false,
     executablePath: await chromium.executablePath,
     // for dev
     // executablePath: "C:/Program Files/Google/Chrome/Application/chrome.exe", /* chrome://version/ */
