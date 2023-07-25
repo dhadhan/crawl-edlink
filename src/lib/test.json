@@ -1,0 +1,93 @@
+{
+    "infoKelas": {
+        "kelas": "PERILAKU ORGANISASI",
+        "codeKelas": "K6B",
+        "dosen": "DEDI DAMHUDI, S.E.,M.M."
+    },
+    "datas": [
+        {
+            "sesi": "Sesi ke-1",
+            "status": "Hadir",
+            "times": "Jumat, 10 Maret 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-2",
+            "status": "Hadir",
+            "times": "Jumat, 17 Maret 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-3",
+            "status": "Hadir",
+            "times": "Jumat, 24 Maret 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-4",
+            "status": "Hadir",
+            "times": "Jumat, 31 Maret 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-5",
+            "status": "Hadir",
+            "times": "Kamis, 13 April 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-6",
+            "status": "",
+            "times": "Jumat, 14 April 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-8",
+            "status": "Hadir",
+            "times": "Jumat, 5 Mei 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-9",
+            "status": "",
+            "times": "Jumat, 19 Mei 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-10",
+            "status": "",
+            "times": "Jumat, 26 Mei 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-12",
+            "status": "Hadir",
+            "times": "Jumat, 9 Juni 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-13",
+            "status": "Hadir",
+            "times": "Jumat, 16 Juni 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-14",
+            "status": "Hadir",
+            "times": "Jumat, 23 Juni 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-7",
+            "status": "",
+            "times": "Senin, 3 Juli 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-11",
+            "status": "",
+            "times": "Senin, 3 Juli 2023 20:00 - 22:00"
+        },
+        {
+            "sesi": "Sesi ke-15",
+            "status": "",
+            "times": "Kamis, 6 Juli 2023 17:30 - 19:30"
+        },
+        {
+            "sesi": "Sesi ke-16",
+            "status": "",
+            "times": "Jumat, 14 Juli 2023 17:30 - 19:30"
+        }
+    ]
+}
+
+
+
+
