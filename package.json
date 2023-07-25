@@ -36,8 +36,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sparticuz/chromium-min": "^111.0.0",
-		"puppeteer-core": "19.7",
+		"chrome-aws-lambda": "^6.0.0",
+		"puppeteer-core": "^6.0.0",
 		"puppeteer-extra": "^3.3.6",
 		"puppeteer-extra-plugin-stealth": "^2.11.2"
 	}
