@@ -8,5 +8,5 @@
 </svelte:head>
 
 <section>
-	<h1>Nothing Here v1.25</h1>
+	<h1>Nothing Here v1.26</h1>
 </section>
